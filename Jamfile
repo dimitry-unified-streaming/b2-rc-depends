@@ -1,0 +1,7 @@
+exe rc-depends
+: # sources
+  main.cpp
+  revision//revision
+: # requirements
+  <target-os>windows:<source>version.rc
+;

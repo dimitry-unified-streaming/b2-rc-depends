@@ -1,0 +1,9 @@
+path-constant HERE : . ;
+
+alias revision
+: # sources
+: # requirements
+: # default-build
+: # usage-requirements
+  <include>$(HERE)
+;
